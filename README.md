@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/munezerobagira/Fylo-basic)
-- Live Site URL: [Click here](https://sostene-1.netlify.app/)
+- Live Site URL: [Click here](https://fylo-basic.vercel.app/)
 
 ## My process
 
